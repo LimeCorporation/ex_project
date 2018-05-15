@@ -1,0 +1,3 @@
+/Users/zhuzi/Downloads/COfProj/Playing_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhuzi/Downloads/COfProj/Playing_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhuzi/Downloads/COfProj/Playing_C/cmake-build-debug/CMakeFiles/Playing_C.dir
